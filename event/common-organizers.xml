@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-07-03 05:55" -->
+	<!-- generator="WordPress/6.9" created="2025-12-09 11:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,314 +26,34 @@
 >
 
 <channel>
-	<title>Cryptocurrency Widgets</title>
-	<link>http://cryptocurrency-widgets.local</link>
+	<title>eventsblock</title>
+	<link>http://eventsblock.local</link>
 	<description></description>
-	<pubDate>Thu, 03 Jul 2025 05:55:17 +0000</pubDate>
+	<pubDate>Tue, 09 Dec 2025 11:51:46 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://cryptocurrency-widgets.local</wp:base_site_url>
-	<wp:base_blog_url>http://cryptocurrency-widgets.local</wp:base_blog_url>
+	<wp:base_site_url>http://eventsblock.local</wp:base_site_url>
+	<wp:base_blog_url>http://eventsblock.local</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[dev-email@wpengine.local]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.8.1</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 		<item>
-		<title><![CDATA[Salsa Chandigarh]]></title>
-		<link>http://cryptocurrency-widgets.local/organizer/salsa-chandigarh/</link>
-		<pubDate>Thu, 11 Jul 2024 11:50:13 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://widgetpro.local/organizer/salsa-chandigarh/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64270</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-11 11:50:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-11 11:50:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-11 11:50:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-11 11:50:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[salsa-chandigarh]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520183;s:21:"_OrganizerOrganizerID";i:1751520183;s:15:"_OrganizerPhone";i:1751520183;s:17:"_OrganizerWebsite";i:1751520183;s:15:"_OrganizerEmail";i:1751520183;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520183;s:21:"_OrganizerOrganizerID";i:1751520183;s:15:"_OrganizerPhone";i:1751520183;s:17:"_OrganizerWebsite";i:1751520183;s:15:"_OrganizerEmail";i:1751520183;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrganizerID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Karaoke Kings Chandigarh]]></title>
-		<link>http://cryptocurrency-widgets.local/organizer/karaoke-kings-chandigarh/</link>
-		<pubDate>Thu, 11 Jul 2024 11:51:34 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://widgetpro.local/organizer/karaoke-kings-chandigarh/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64274</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-11 11:51:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-11 11:51:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-11 11:51:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-11 11:51:34]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[karaoke-kings-chandigarh]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520183;s:21:"_OrganizerOrganizerID";i:1751520183;s:15:"_OrganizerPhone";i:1751520183;s:17:"_OrganizerWebsite";i:1751520183;s:15:"_OrganizerEmail";i:1751520183;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520183;s:21:"_OrganizerOrganizerID";i:1751520183;s:15:"_OrganizerPhone";i:1751520183;s:17:"_OrganizerWebsite";i:1751520183;s:15:"_OrganizerEmail";i:1751520183;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrganizerID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Laughter House Chandigarh]]></title>
-		<link>http://cryptocurrency-widgets.local/organizer/laughter-house-chandigarh/</link>
-		<pubDate>Thu, 11 Jul 2024 11:53:52 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://widgetpro.local/organizer/laughter-house-chandigarh/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64282</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-11 11:53:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-11 11:53:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-11 11:53:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-11 11:53:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[laughter-house-chandigarh]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrganizerID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Chandigarh Tech Innovators]]></title>
-		<link>http://cryptocurrency-widgets.local/organizer/chandigarh-tech-innovators/</link>
-		<pubDate>Fri, 12 Jul 2024 05:42:05 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://widgetpro.local/organizer/chandigarh-tech-innovators/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64303</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-12 05:42:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-12 05:42:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 05:42:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 05:42:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[chandigarh-tech-innovators]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrganizerID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Elite Weddings Delhi]]></title>
-		<link>http://cryptocurrency-widgets.local/organizer/elite-weddings-delhi/</link>
-		<pubDate>Fri, 12 Jul 2024 06:34:04 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://widgetpro.local/organizer/elite-weddings-delhi/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64354</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-12 06:34:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-12 06:34:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 06:34:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 06:34:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[elite-weddings-delhi]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrganizerID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Taste of India]]></title>
-		<link>http://cryptocurrency-widgets.local/organizer/taste-of-india/</link>
-		<pubDate>Fri, 12 Jul 2024 07:49:02 +0000</pubDate>
+		<link>http://eventsblock.local/organizer/taste-of-india/</link>
+		<pubDate>Tue, 16 Jul 2024 07:07:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://widgetpro.local/organizer/taste-of-india/</guid>
+		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_organizer&#038;p=64483</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[Taste of India is an event organizer specializing in bringing the rich flavors, vibrant culture, and traditions of India to life through immersive culinary experiences and cultural events.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64375</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-12 07:49:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-12 07:49:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 07:49:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 07:49:02]]></wp:post_modified_gmt>
+		<wp:post_id>64483</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-16 08:07:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-16 07:07:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-16 08:07:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-16 07:07:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[taste-of-india]]></wp:post_name>
@@ -349,7 +69,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:14:{s:16:"_OrganizerOrigin";i:1765279960;s:25:"ectbe_pro_style_migration";i:1765279960;s:16:"ectbe_pro_exists";i:1765279960;s:10:"_edit_last";i:1765279960;s:15:"_OrganizerPhone";i:1765279960;s:17:"_OrganizerWebsite";i:1765279960;s:15:"_OrganizerEmail";i:1765279960;s:34:"rank_math_internal_links_processed";i:1765279960;s:28:"rank_math_analytic_object_id";i:1765279960;s:22:"_tribe_ticket_capacity";i:1765279960;s:21:"_tribe_ticket_version";i:1765279960;s:19:"rank_math_seo_score";i:1765279960;s:13:"_thumbnail_id";i:1765279960;s:23:"cmplz_hide_cookiebanner";i:1765279960;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
@@ -357,23 +77,447 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:16:"_OrganizerOrigin";i:1751520184;s:21:"_OrganizerOrganizerID";i:1751520184;s:15:"_OrganizerPhone";i:1751520184;s:17:"_OrganizerWebsite";i:1751520184;s:15:"_OrganizerEmail";i:1751520184;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:14:{s:16:"_OrganizerOrigin";i:1765279960;s:25:"ectbe_pro_style_migration";i:1765279960;s:16:"ectbe_pro_exists";i:1765279960;s:10:"_edit_last";i:1765279960;s:15:"_OrganizerPhone";i:1765279960;s:17:"_OrganizerWebsite";i:1765279960;s:15:"_OrganizerEmail";i:1765279960;s:34:"rank_math_internal_links_processed";i:1765279960;s:28:"rank_math_analytic_object_id";i:1765279960;s:22:"_tribe_ticket_capacity";i:1765279960;s:21:"_tribe_ticket_version";i:1765279960;s:19:"rank_math_seo_score";i:1765279960;s:13:"_thumbnail_id";i:1765279960;s:23:"cmplz_hide_cookiebanner";i:1765279960;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_OrganizerOrganizerID]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:14:{s:16:"_OrganizerOrigin";i:1765279960;s:25:"ectbe_pro_style_migration";i:1765279960;s:16:"ectbe_pro_exists";i:1765279960;s:10:"_edit_last";i:1765279960;s:15:"_OrganizerPhone";i:1765279960;s:17:"_OrganizerWebsite";i:1765279960;s:15:"_OrganizerEmail";i:1765279960;s:34:"rank_math_internal_links_processed";i:1765279960;s:28:"rank_math_analytic_object_id";i:1765279960;s:22:"_tribe_ticket_capacity";i:1765279960;s:21:"_tribe_ticket_version";i:1765279960;s:19:"rank_math_seo_score";i:1765279960;s:13:"_thumbnail_id";i:1765279960;s:23:"cmplz_hide_cookiebanner";i:1765279960;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[done]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_exists]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[+91 8699221844]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://coolplugins.net]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[922]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_capacity]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.10.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cmplz_hide_cookiebanner]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Delhi Wedding Planners Association]]></title>
+		<link>http://eventsblock.local/organizer/delhi-wedding-planners-association/</link>
+		<pubDate>Tue, 16 Jul 2024 07:10:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_organizer&#038;p=64491</guid>
+		<description></description>
+		<content:encoded><![CDATA[The association aims to unite wedding planners across India, providing a platform for networking, collaboration, and professional development.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64491</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-16 08:10:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-16 07:10:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-16 08:10:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-16 07:10:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[delhi-wedding-planners-association]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[done]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_exists]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+91 98110 17863]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.google.com/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[924]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_capacity]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.10.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Chandigarh Tech Innovators]]></title>
+		<link>http://eventsblock.local/organizer/chandigarh-tech-innovators/</link>
+		<pubDate>Tue, 16 Jul 2024 07:11:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_organizer&#038;p=64501</guid>
+		<description></description>
+		<content:encoded><![CDATA[Chandigarh Tech Innovators" is not a single entity but a collective term representing the vibrant technology and innovation ecosystem.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64501</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-16 08:11:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-16 07:11:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-16 08:11:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-16 07:11:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chandigarh-tech-innovators]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:13:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[done]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_exists]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+1 865-444-3457]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://eventscalendaraddons.com/demos/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[admin@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[927]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_capacity]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.10.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Bollywood Nights Chandigarh]]></title>
+		<link>http://eventsblock.local/organizer/bollywood-nights-chandigarh/</link>
+		<pubDate>Tue, 16 Jul 2024 07:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_organizer&#038;p=64515</guid>
+		<description></description>
+		<content:encoded><![CDATA[Bollywood Nights Chandigarh is an energetic event organizer bringing the vibrant essence of Bollywood to life with lively music, dance, and unforgettable entertainment experiences.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64515</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-16 08:14:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-16 07:14:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-16 08:14:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-16 07:14:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bollywood-nights-chandigarh]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:15:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;s:23:"cmplz_hide_cookiebanner";i:1765279961;s:30:"_betterdocs_reusable_block_ids";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:15:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;s:23:"cmplz_hide_cookiebanner";i:1765279961;s:30:"_betterdocs_reusable_block_ids";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:15:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;s:23:"cmplz_hide_cookiebanner";i:1765279961;s:30:"_betterdocs_reusable_block_ids";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[done]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_exists]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+91 8699221844]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://coolplugins.net]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[931]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_capacity]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.10.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cmplz_hide_cookiebanner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_betterdocs_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Chandigarh Party Planners]]></title>
+		<link>http://eventsblock.local/organizer/chandigarh-party-planners/</link>
+		<pubDate>Tue, 16 Jul 2024 07:14:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_organizer&#038;p=64517</guid>
+		<description></description>
+		<content:encoded><![CDATA[Chandigarh Party Planners is a premier event organizer specializing in crafting unforgettable parties and celebrations with personalized themes, impeccable planning, and flawless execution.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64517</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-16 08:14:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-16 07:14:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-16 08:14:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-16 07:14:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chandigarh-party-planners]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_organizer]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:15:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;s:23:"cmplz_hide_cookiebanner";i:1765279961;s:30:"_betterdocs_reusable_block_ids";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:15:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;s:23:"cmplz_hide_cookiebanner";i:1765279961;s:30:"_betterdocs_reusable_block_ids";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:15:{s:16:"_OrganizerOrigin";i:1765279961;s:25:"ectbe_pro_style_migration";i:1765279961;s:16:"ectbe_pro_exists";i:1765279961;s:10:"_edit_last";i:1765279961;s:15:"_OrganizerPhone";i:1765279961;s:17:"_OrganizerWebsite";i:1765279961;s:15:"_OrganizerEmail";i:1765279961;s:34:"rank_math_internal_links_processed";i:1765279961;s:28:"rank_math_analytic_object_id";i:1765279961;s:22:"_tribe_ticket_capacity";i:1765279961;s:21:"_tribe_ticket_version";i:1765279961;s:19:"rank_math_seo_score";i:1765279961;s:13:"_thumbnail_id";i:1765279961;s:23:"cmplz_hide_cookiebanner";i:1765279961;s:30:"_betterdocs_reusable_block_ids";i:1765279961;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[done]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ectbe_pro_exists]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerOrigin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerPhone]]></wp:meta_key>
+		<wp:meta_value><![CDATA[+91 8699221844]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerWebsite]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://coolplugins.net]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_OrganizerEmail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[contact@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_internal_links_processed]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_analytic_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[933]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_capacity]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tribe_ticket_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5.10.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[rank_math_seo_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cmplz_hide_cookiebanner]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_betterdocs_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
