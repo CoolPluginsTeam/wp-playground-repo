@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.9" created="2025-12-10 05:06" -->
+	<!-- generator="WordPress/6.9" created="2025-12-09 11:51" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,25 +26,25 @@
 >
 
 <channel>
-	<title>playground.instawp.co</title>
-	<link>https://playground.instawp.co</link>
+	<title>eventsblock</title>
+	<link>http://eventsblock.local</link>
 	<description></description>
-	<pubDate>Wed, 10 Dec 2025 05:06:48 +0000</pubDate>
+	<pubDate>Tue, 09 Dec 2025 11:51:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://playground.instawp.co</wp:base_site_url>
-	<wp:base_blog_url>https://playground.instawp.co</wp:base_blog_url>
+	<wp:base_site_url>http://eventsblock.local</wp:base_site_url>
+	<wp:base_blog_url>http://eventsblock.local</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[vifalitiwe7036]]></wp:author_login><wp:author_email><![CDATA[narinder99143@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[vifalitiwe7036]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[dev-email@wpengine.local]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				
 	<generator>https://wordpress.org/?v=6.9</generator>
 
 		<item>
 		<title><![CDATA[Plaza]]></title>
-		<link>https://playground.instawp.co/venue/plaza/</link>
+		<link>http://eventsblock.local/venue/plaza/</link>
 		<pubDate>Tue, 16 Jul 2024 06:47:54 +0000</pubDate>
-		<dc:creator><![CDATA[vifalitiwe7036]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_venue&#038;p=64437</guid>
 		<description></description>
 		<content:encoded><![CDATA[Park Plaza Chandigarh Zirakpur is a contemporary 4.5-star hotel situated conveniently along the Ambala-Chandigarh National Highway, offering easy access to both Chandigarh city and the airport.]]></content:encoded>
@@ -69,7 +69,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:20:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:20:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
@@ -77,19 +77,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:20:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:20:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:20:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:20:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:20:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
@@ -174,9 +166,9 @@
 							</item>
 					<item>
 		<title><![CDATA[JW Marriott]]></title>
-		<link>https://playground.instawp.co/venue/jw-marriott/</link>
+		<link>http://eventsblock.local/venue/jw-marriott/</link>
 		<pubDate>Tue, 16 Jul 2024 06:49:21 +0000</pubDate>
-		<dc:creator><![CDATA[vifalitiwe7036]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_venue&#038;p=64442</guid>
 		<description></description>
 		<content:encoded><![CDATA[JW Marriott Hotel Chandigarh is a luxurious 5-star hotel situated in the heart of the city, offering a blend of elegance and modern comfort.]]></content:encoded>
@@ -201,7 +193,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
@@ -209,19 +201,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
@@ -314,9 +298,9 @@
 							</item>
 					<item>
 		<title><![CDATA[IT Hub]]></title>
-		<link>https://playground.instawp.co/venue/it-hub/</link>
+		<link>http://eventsblock.local/venue/it-hub/</link>
 		<pubDate>Tue, 16 Jul 2024 06:53:17 +0000</pubDate>
-		<dc:creator><![CDATA[vifalitiwe7036]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_venue&#038;p=64457</guid>
 		<description></description>
 		<content:encoded><![CDATA[IT Hub is a modern venue designed for tech events, offering cutting-edge facilities and a collaborative space for innovation and networking.]]></content:encoded>
@@ -341,7 +325,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:23:"cmplz_hide_cookiebanner";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:23:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;s:23:"cmplz_hide_cookiebanner";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
@@ -349,19 +333,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:23:"cmplz_hide_cookiebanner";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:23:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;s:23:"cmplz_hide_cookiebanner";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:23:"cmplz_hide_cookiebanner";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:23:"cmplz_hide_cookiebanner";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:23:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;s:23:"cmplz_hide_cookiebanner";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
@@ -458,9 +434,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Club XYZ]]></title>
-		<link>https://playground.instawp.co/venue/club-xyz/</link>
+		<link>http://eventsblock.local/venue/club-xyz/</link>
 		<pubDate>Tue, 16 Jul 2024 06:56:47 +0000</pubDate>
-		<dc:creator><![CDATA[vifalitiwe7036]]></dc:creator>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://staging.eventscalendaraddons.com/?post_type=tribe_venue&#038;p=64463</guid>
 		<description></description>
 		<content:encoded><![CDATA[Chandigarh Club is one of the oldest and most prestigious social clubs in the city, located in <strong data-start="266" data-end="278">Sector 17</strong>, right next to the Capitol Complex. Spread across a lush green estate, the club offers a perfect blend of colonial charm and modern facilities.]]></content:encoded>
@@ -485,7 +461,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
@@ -493,19 +469,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765342647;s:25:"ectbe_pro_style_migration";i:1765342647;s:16:"ectbe_pro_exists";i:1765342647;s:10:"_edit_last";i:1765342647;s:17:"_EventShowMapLink";i:1765342647;s:13:"_EventShowMap";i:1765342647;s:17:"_VenueShowMapLink";i:1765342647;s:13:"_VenueShowMap";i:1765342647;s:13:"_VenueAddress";i:1765342647;s:10:"_VenueCity";i:1765342647;s:13:"_VenueCountry";i:1765342647;s:14:"_VenueProvince";i:1765342647;s:11:"_VenueState";i:1765342647;s:9:"_VenueZip";i:1765342647;s:11:"_VenuePhone";i:1765342647;s:9:"_VenueURL";i:1765342647;s:19:"_VenueStateProvince";i:1765342647;s:34:"rank_math_internal_links_processed";i:1765342647;s:28:"rank_math_analytic_object_id";i:1765342647;s:22:"_tribe_ticket_capacity";i:1765342647;s:21:"_tribe_ticket_version";i:1765342647;s:19:"rank_math_seo_score";i:1765342647;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"_VenueOrigin";i:1765279917;s:25:"ectbe_pro_style_migration";i:1765279917;s:16:"ectbe_pro_exists";i:1765279917;s:10:"_edit_last";i:1765279917;s:17:"_EventShowMapLink";i:1765279917;s:13:"_EventShowMap";i:1765279917;s:17:"_VenueShowMapLink";i:1765279917;s:13:"_VenueShowMap";i:1765279917;s:13:"_VenueAddress";i:1765279917;s:10:"_VenueCity";i:1765279917;s:13:"_VenueCountry";i:1765279917;s:14:"_VenueProvince";i:1765279917;s:11:"_VenueState";i:1765279917;s:9:"_VenueZip";i:1765279917;s:11:"_VenuePhone";i:1765279917;s:9:"_VenueURL";i:1765279917;s:19:"_VenueStateProvince";i:1765279917;s:34:"rank_math_internal_links_processed";i:1765279917;s:28:"rank_math_analytic_object_id";i:1765279917;s:22:"_tribe_ticket_capacity";i:1765279917;s:21:"_tribe_ticket_version";i:1765279917;s:19:"rank_math_seo_score";i:1765279917;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[ectbe_pro_style_migration]]></wp:meta_key>
