@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.9" created="2026-01-22 12:10" -->
+	<!-- generator="WordPress/6.9.1" created="2026-02-24 05:25" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,39 +26,37 @@
 >
 
 <channel>
-	<title>grand-anaconda-122d2a.instawp.co</title>
-	<link>https://grand-anaconda-122d2a.instawp.co</link>
+	<title>alltesting</title>
+	<link>http://alltesting.local</link>
 	<description></description>
-	<pubDate>Thu, 22 Jan 2026 12:10:04 +0000</pubDate>
+	<pubDate>Tue, 24 Feb 2026 05:25:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://grand-anaconda-122d2a.instawp.co</wp:base_site_url>
-	<wp:base_blog_url>https://grand-anaconda-122d2a.instawp.co</wp:base_blog_url>
+	<wp:base_site_url>http://alltesting.local</wp:base_site_url>
+	<wp:base_blog_url>http://alltesting.local</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[zatojejije7733]]></wp:author_login><wp:author_email><![CDATA[narinder99143@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[zatojejije7733]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[dev-email@wpengine.local]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=6.9</generator>
+	<generator>https://wordpress.org/?v=6.9.1</generator>
 
 		<item>
 		<title><![CDATA[Events Block Demo]]></title>
-		<link>https://grand-anaconda-122d2a.instawp.co/events-block-demo/</link>
-		<pubDate>Thu, 22 Jan 2026 12:09:47 +0000</pubDate>
-		<dc:creator><![CDATA[zatojejije7733]]></dc:creator>
-		<guid isPermaLink="false">https://grand-anaconda-122d2a.instawp.co/?page_id=73</guid>
+		<link>http://alltesting.local/events-block-demo/</link>
+		<pubDate>Tue, 24 Feb 2026 05:24:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://alltesting.local/?page_id=85548</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:evtb/events-grid -->
-<div class="wp-block-evtb-events-grid evtb-events-grid-container evtb-front-view" style="--columns:2"><!-- wp:evtb/event-item {"evtbBlockId":"db66c7f3","eventImage":"https://grand-anaconda-122d2a.instawp.co/wp-content/plugins/events-block/assets/images/crazy-DJ-experience-santa-cruz.webp","eventImageAlt":"Crazy DJ Experience Santa Cruz","eventDate":"2026-01-06","isDefault":true,"hasImage":true} -->
-<div class="wp-block-evtb-event-item evtb-event-item evtb-block-db66c7f3" style="--evtb-details-bg:#ffffff"><div class="evtb-event-card"><div class="evtb-event-details"><div class="evtb-event-details-inner"><!-- wp:group {"className":"evtb-event-image-wrap"} -->
+<div class="wp-block-evtb-events-grid evtb-events-grid-container evtb-front-view" style="--columns:2"><!-- wp:evtb/event-item {"evtbBlockId":"018fcd98","eventImage":"http://alltesting.local/wp-content/plugins/events-block/assets/images/crazy-DJ-experience-santa-cruz.webp","eventImageAlt":"Crazy DJ Experience Santa Cruz","eventDate":"2026-02-24","isDefault":true,"hasImage":true,"contentPopulated":true} -->
+<div class="wp-block-evtb-event-item evtb-event-item evtb-block-018fcd98" style="--evtb-details-bg:#ffffff"><div class="evtb-event-card"><div class="evtb-event-details"><div class="evtb-event-details-inner"><!-- wp:group {"className":"evtb-event-image-wrap"} -->
 <div class="wp-block-group evtb-event-image-wrap"><!-- wp:image {"className":"evtb-event-image-block"} -->
-<figure class="wp-block-image evtb-event-image-block"><img src="https://grand-anaconda-122d2a.instawp.co/wp-content/plugins/events-block/assets/images/crazy-DJ-experience-santa-cruz.webp" alt="Crazy DJ Experience Santa Cruz"/></figure>
+<figure class="wp-block-image evtb-event-image-block"><img src="http://alltesting.local/wp-content/plugins/events-block/assets/images/crazy-DJ-experience-santa-cruz.webp" alt="Crazy DJ Experience Santa Cruz"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"evtb-card-details"} -->
-<div class="wp-block-group evtb-card-details"><!-- wp:evtb/event-date-badge {"evtbBadgeId":"2a99ea5f","eventDate":"2026-01-06","isDateSet":true} -->
-<div class="wp-block-evtb-event-date-badge evtb-event-date-badge-container evtb-badge-2a99ea5f" style="--evtb-badge-bg:#2667FF;--evtb-badge-text:#ffffff;--evtb-badge-border:#00000040;--evtb-badge-weekday:#000000"><div class="evtb-border-badge"><div class="evtb-event-date-badge"><span class="evtb-date-day">06</span><span class="evtb-date-month">Jan</span></div></div><span class="evtb-date-weekday">TUE</span></div>
-<!-- /wp:evtb/event-date-badge -->
+<div class="wp-block-group evtb-card-details"><!-- wp:evtb/event-date-badge {"evtbBadgeId":"2db3704f","eventDate":"2026-02-24","isDateSet":true} /-->
 
 <!-- wp:group {"className":"evtb-event-detail"} -->
 <div class="wp-block-group evtb-event-detail"><!-- wp:paragraph {"className":"evtb-event-time","evtbIsTimeSet":true} -->
@@ -92,17 +90,15 @@
 <!-- /wp:group --></div></div></div></div>
 <!-- /wp:evtb/event-item -->
 
-<!-- wp:evtb/event-item {"evtbBlockId":"91922745","eventImage":"https://grand-anaconda-122d2a.instawp.co/wp-content/plugins/events-block/assets/images/cute-girls-rock-band-performance.webp","eventImageAlt":"Cute Girls Rock Band Performance","eventDate":"2026-04-04","isDefault":true,"hasImage":true} -->
-<div class="wp-block-evtb-event-item evtb-event-item evtb-block-91922745" style="--evtb-details-bg:#ffffff"><div class="evtb-event-card"><div class="evtb-event-details"><div class="evtb-event-details-inner"><!-- wp:group {"className":"evtb-event-image-wrap"} -->
+<!-- wp:evtb/event-item {"evtbBlockId":"24962924","eventImage":"http://alltesting.local/wp-content/plugins/events-block/assets/images/cute-girls-rock-band-performance.webp","eventImageAlt":"Cute Girls Rock Band Performance","eventDate":"2026-02-24","isDefault":true,"hasImage":true,"contentPopulated":true} -->
+<div class="wp-block-evtb-event-item evtb-event-item evtb-block-24962924" style="--evtb-details-bg:#ffffff"><div class="evtb-event-card"><div class="evtb-event-details"><div class="evtb-event-details-inner"><!-- wp:group {"className":"evtb-event-image-wrap"} -->
 <div class="wp-block-group evtb-event-image-wrap"><!-- wp:image {"className":"evtb-event-image-block"} -->
-<figure class="wp-block-image evtb-event-image-block"><img src="https://grand-anaconda-122d2a.instawp.co/wp-content/plugins/events-block/assets/images/cute-girls-rock-band-performance.webp" alt="Cute Girls Rock Band Performance"/></figure>
+<figure class="wp-block-image evtb-event-image-block"><img src="http://alltesting.local/wp-content/plugins/events-block/assets/images/cute-girls-rock-band-performance.webp" alt="Cute Girls Rock Band Performance"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"evtb-card-details"} -->
-<div class="wp-block-group evtb-card-details"><!-- wp:evtb/event-date-badge {"evtbBadgeId":"117b5287","eventDate":"2026-04-04","isDateSet":true} -->
-<div class="wp-block-evtb-event-date-badge evtb-event-date-badge-container evtb-badge-117b5287" style="--evtb-badge-bg:#2667FF;--evtb-badge-text:#ffffff;--evtb-badge-border:#00000040;--evtb-badge-weekday:#000000"><div class="evtb-border-badge"><div class="evtb-event-date-badge"><span class="evtb-date-day">04</span><span class="evtb-date-month">Apr</span></div></div><span class="evtb-date-weekday">SAT</span></div>
-<!-- /wp:evtb/event-date-badge -->
+<div class="wp-block-group evtb-card-details"><!-- wp:evtb/event-date-badge {"evtbBadgeId":"5ed65f07","eventDate":"2026-02-24","isDateSet":true} /-->
 
 <!-- wp:group {"className":"evtb-event-detail"} -->
 <div class="wp-block-group evtb-event-detail"><!-- wp:paragraph {"className":"evtb-event-time","evtbIsTimeSet":true} -->
@@ -136,17 +132,15 @@
 <!-- /wp:group --></div></div></div></div>
 <!-- /wp:evtb/event-item -->
 
-<!-- wp:evtb/event-item {"evtbBlockId":"39a58a72","eventImage":"https://grand-anaconda-122d2a.instawp.co/wp-content/plugins/events-block/assets/images/free-food-distribution-at-mumbai.webp","eventImageAlt":"Free Food Distribution At Mumbai","eventDate":"2026-06-08","isDefault":true,"hasImage":true} -->
-<div class="wp-block-evtb-event-item evtb-event-item evtb-block-39a58a72" style="--evtb-details-bg:#ffffff"><div class="evtb-event-card"><div class="evtb-event-details"><div class="evtb-event-details-inner"><!-- wp:group {"className":"evtb-event-image-wrap"} -->
+<!-- wp:evtb/event-item {"evtbBlockId":"9606b84b","eventImage":"http://alltesting.local/wp-content/plugins/events-block/assets/images/free-food-distribution-at-mumbai.webp","eventImageAlt":"Free Food Distribution At Mumbai","eventDate":"2026-02-24","isDefault":true,"hasImage":true,"contentPopulated":true} -->
+<div class="wp-block-evtb-event-item evtb-event-item evtb-block-9606b84b" style="--evtb-details-bg:#ffffff"><div class="evtb-event-card"><div class="evtb-event-details"><div class="evtb-event-details-inner"><!-- wp:group {"className":"evtb-event-image-wrap"} -->
 <div class="wp-block-group evtb-event-image-wrap"><!-- wp:image {"className":"evtb-event-image-block"} -->
-<figure class="wp-block-image evtb-event-image-block"><img src="https://grand-anaconda-122d2a.instawp.co/wp-content/plugins/events-block/assets/images/free-food-distribution-at-mumbai.webp" alt="Free Food Distribution At Mumbai"/></figure>
+<figure class="wp-block-image evtb-event-image-block"><img src="http://alltesting.local/wp-content/plugins/events-block/assets/images/free-food-distribution-at-mumbai.webp" alt="Free Food Distribution At Mumbai"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"className":"evtb-card-details"} -->
-<div class="wp-block-group evtb-card-details"><!-- wp:evtb/event-date-badge {"evtbBadgeId":"ba25fb63","eventDate":"2026-06-08","isDateSet":true} -->
-<div class="wp-block-evtb-event-date-badge evtb-event-date-badge-container evtb-badge-ba25fb63" style="--evtb-badge-bg:#2667FF;--evtb-badge-text:#ffffff;--evtb-badge-border:#00000040;--evtb-badge-weekday:#000000"><div class="evtb-border-badge"><div class="evtb-event-date-badge"><span class="evtb-date-day">08</span><span class="evtb-date-month">Jun</span></div></div><span class="evtb-date-weekday">MON</span></div>
-<!-- /wp:evtb/event-date-badge -->
+<div class="wp-block-group evtb-card-details"><!-- wp:evtb/event-date-badge {"evtbBadgeId":"dae2aed1","eventDate":"2026-02-24","isDateSet":true} /-->
 
 <!-- wp:group {"className":"evtb-event-detail"} -->
 <div class="wp-block-group evtb-event-detail"><!-- wp:paragraph {"className":"evtb-event-time","evtbIsTimeSet":true} -->
@@ -181,11 +175,11 @@
 <!-- /wp:evtb/event-item --></div>
 <!-- /wp:evtb/events-grid -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>73</wp:post_id>
-		<wp:post_date><![CDATA[2026-01-22 12:09:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-01-22 12:09:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-01-22 12:09:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-01-22 12:09:47]]></wp:post_modified_gmt>
+		<wp:post_id>85548</wp:post_id>
+		<wp:post_date><![CDATA[2026-02-24 05:24:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-02-24 05:24:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-02-24 05:24:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-02-24 05:24:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[events-block-demo]]></wp:post_name>
